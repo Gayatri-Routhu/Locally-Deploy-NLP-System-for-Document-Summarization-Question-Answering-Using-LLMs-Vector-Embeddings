@@ -1,0 +1,2 @@
+# Locally-Deploy-NLP-System-for-Document-Summarization-Question-Answering-Using-LLMs-Vector-Embeddings
+This paper presents a locally deployed Natural Language Processing (NLP) system designed to perform secure document summarization and context-aware question answering.By leveraging advanced Large Language Models (LLMs), vector databases, and modern NLP tools such as LangChain, Hugging Face, Qdrant, and Streamlit
